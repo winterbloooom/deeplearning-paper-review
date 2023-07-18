@@ -1,2 +1,19 @@
 # deeplearning-paper-review
-Review &amp; Code practice of Deep Learning Papers
+
+|No | Category | Paper | Links |
+|---|---|---|---|
+|1|Image Classification|[**LeNet**] **Gradient-based learning applied to document recognition**<br>LeCun, Yann, et al. / 1998<br>[[ paper ](https://ieeexplore.ieee.org/abstract/document/726791?casa_token=9FRNDq3sQRkAAAAA:4jDB8cpofuPn9ADWnplRh1_RAfDyTJGOcRvdXxFVhpqDgJjz_LwPILoAC5ouokMWXLll6eBqeqw)]|[review 1](https://winterbloooom.github.io/ai/deep%20learning/2022/04/20/lenet.html) / [review 2](https://winterbloooom.github.io/ai/deep%20learning/2022/05/02/lenet2.html) / [code]()|
+|2|Image Classification|[**AlexNet**] **Imagenet classification with deep convolutional neural networks**<br>Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton / NeurIPS 2012<br>[[ paper ](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/07/02/alexnet.html) / [code]()
+|3|Generative Model|[**GAN**] **Generative Adversarial Nets**<br>Goodfellow, Ian, et al. / NeurIPS 2014<br>[[ paper ](https://proceedings.neurips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/07/29/gan.html) / [code]()|
+|4|Object Detection|[**YOLO**] **You Only Look Once: Unified, Real-Time Object Detection**<br>Redmon, Joseph, et al. / CVPR 2016<br>[[ paper ](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/05/04/yolov1.html) / [code]()|
+|5|Object Detection|[**YOLOv2**] **YOLO9000: better, faster, stronger**<br>Redmon, Joseph, and Ali Farhadi / CVPR 2017<br>[[ paper ](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/05/06/yolov2.html)|
+|6|Motion Prediction|**A Survey on Motion Prediction of Pedestrians and Vehicles for Autonomous Driving**<br>Gulzar, Mahir, Yar Muhammad, and Naveed Muhammad / IEEE Access 9<br>[[ paper ](https://ieeexplore.ieee.org/abstract/document/9559998)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/05/26/motion_prediciton_servey.html)|
+|7|Trajectory Prediction|[**Social Gan**] **Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks**<br>Gupta, Agrim, et al. / CVPR 2018<br>[[ paper ](https://openaccess.thecvf.com/content_cvpr_2018/html/Gupta_Social_GAN_Socially_CVPR_2018_paper.html)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/07/24/social_gan.html)|
+|8|Trajectory Prediction|[**Sophie**] **Sophie: An attentive gan for predicting paths compliant to social and physical constraints**<br>Sadeghian, Amir, et al. / CVPR 2019<br>[[ paper ](https://openaccess.thecvf.com/content_CVPR_2019/html/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.html)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/08/03/sophie.html)|
+|9|Trajectory Prediction|[**M2I**] **M2i: From factored marginal trajectory prediction to interactive prediction**<br>Sun, Qiao, et al. / CVPR 2022<br>[[ paper ](https://arxiv.org/pdf/2202.11884v2.pdf)]|[review](https://winterbloooom.github.io/ai/deep%20learning/2022/08/04/m2i.html)|
+|10|Depth Estimation|[**DepthFormer**] **DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation**<br>Li, Zhenyu, et al. / arXiv 2022<br>[[ paper ](https://arxiv.org/abs/2203.14211)]|[review](https://winterbloooom.github.io/ai/computer%20vision/2023/02/03/depthformer.html)|
+
+
+```
+|num|cate|[**name**] **title**<br>authors / publisher<br>[[ paper ]()]|[]() / []()|
+```
